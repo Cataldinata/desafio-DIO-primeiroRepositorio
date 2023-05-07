@@ -1,0 +1,4 @@
+Nesta pasta estarão alguns códigos em Java que eu criei enquanto fazia o curso de Introdução À Linguagem JAVA pela Escola Virtual da Fundação Bradesco.
+
+Todo o treinamento eu fiz utilizando o "jeito raíz" de programar, utilizando o prompt de comando com o comando 'javac'. 
+Não utilizei alguma IDE. Todos os códigos foram editados e executados no aplicativo Bloco de Notas do Windows e no seu CMD. 
