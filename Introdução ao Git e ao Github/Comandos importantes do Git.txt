@@ -1,0 +1,16 @@
+// git clone
+	
+	Utilizado para clonar na sua máquina o repositório através do link copiado no github
+
+// git status
+
+	Utilizado para verificar o que há dentro do repositório
+
+// git add
+
+	Utilizado para sinalizar o interesse em adicionar os mais recentes arquivos ao repositório
+
+// git add .
+
+	Utilizado para adicionar TODAS as novas atualizações ao repositório
+
