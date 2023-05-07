@@ -14,3 +14,10 @@
 
 	Utilizado para adicionar TODAS as novas atualizações ao repositório
 
+// git commit -m ""
+	
+	Utilizado para criar um commit com mensagem
+
+// git push origin main/master
+
+	Utilizado para enviar os commits para o repositório main (ptincipal) remoto (nuvem)	
